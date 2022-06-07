@@ -4,5 +4,5 @@
 
 Dashboard developed using R + shiny + flexdashboard
 
-## Gif
+## Dashboard Gif
 ![image](page1.png)
