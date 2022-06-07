@@ -2,7 +2,7 @@
 
 ![image](foto2gh.png)
 
-Dashboard developed using R + shiny + flexdashboard
+Demonstration of a dashboard developed using R + shiny + flexdashboard for a study on cement.
 
 ## Demo Gif
 ![Dashboard Cimento Portland - CPII](gifdash.gif)
