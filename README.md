@@ -4,5 +4,5 @@
 
 Dashboard developed using R + shiny + flexdashboard
 
-## Dashboard Gif
-![image](page1.png)
+## Demo Gif
+![Dashboard Cimento Portland - CPII](gifdash.gif)
